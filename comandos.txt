@@ -11,5 +11,8 @@
 ----------- obtenemos un estado del repositorio git ---------------------
   git status
 
------------- realizamos un commit de todos los archivos ------------------------
+--- commit de todos los archivos (Se encuentra en revision) ---
   git add .
+
+--- guardamos el commit ---
+  git commit -m "Descripcion del commit"
