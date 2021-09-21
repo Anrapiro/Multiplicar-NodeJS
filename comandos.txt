@@ -1,0 +1,15 @@
+------------ SI ES LA PRIMERA VEZ QUE SE EJECUTA GIT --------------------
+  git config --global user.name "NameUser"
+
+  git config --global user.email emailGit.example.com
+
+  git config --list
+
+===================== INICIALIZAR REPOSITORIO GIT =======================
+  git init
+
+----------- obtenemos un estado del repositorio git ---------------------
+  git status
+
+------------ realizamos un commit de todos los archivos ------------------------
+  git add .

@@ -1,0 +1,15 @@
+{
+  "name": "10_git_github",
+  "version": "1.0.0",
+  "description": "Programa de consola que nos permite exportar la tabla de multiplicar a un documento de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antony p",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.1.1"
+  }
+}
