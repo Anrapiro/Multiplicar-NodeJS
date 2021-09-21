@@ -16,3 +16,15 @@
 
 --- guardamos el commit ---
   git commit -m "Descripcion del commit"
+
+- Una vez creado el repositorio en github, procedemos a guardar o subir los cambios -
+
+ejemplo:
+
+  git remote add origin https://github.com/Anrapiro/Multiplicar-NodeJS.git
+
+  git branch -M main
+
+  git push -u origin main
+
+  ====== ES PROBABLE QUE PIDA USUARIO Y CONTRASENA =======
